@@ -54,17 +54,17 @@ Zhongguancun National Laboratory
 
 ## Certifications
 
-*Hua Luogeng Scholarship,
-*Third Prize in the “HUAWEI CUP” THE 20TH CHINA POST-GRADUATE MATHEMATICAL CONTEST IN MODELING
-*Third Prize in the 29th Dalian Municipal Undergraduate Mathematics Competition (Mathematics Category)
-*Spiritual Civilization Scholarship for the Academic Year 2020-2021 at Dalian University of Technology
-*Admission Scholarship for Master's Study at Beihang University.
+* Hua Luogeng Scholarship,
+* Third Prize in the “HUAWEI CUP” THE 20TH CHINA POST-GRADUATE MATHEMATICAL CONTEST IN MODELING
+* Third Prize in the 29th Dalian Municipal Undergraduate Mathematics Competition (Mathematics Category)
+* Spiritual Civilization Scholarship for the Academic Year 2020-2021 at Dalian University of Technology
+* Admission Scholarship for Master's Study at Beihang University.
 
 ## Work skills
-*Familiar with the Python programming language 
-*Familiar with PyTorch, deep learning framework.
-*Experienced in using MATLAB.
+* Familiar with the Python programming language 
+* Familiar with PyTorch, deep learning framework.
+* Experienced in using MATLAB.
 
 ## About me
-*Since the release of ChatGPT, I have started to pay attention to large language models and become very interested in them. During the summer vacation after graduation from college, I read papers related to Transformer, BERT, and GPT. In my first year of graduate studies, I took a course on pattern recognition, further understanding the related technologies. Currently, I am studying knowledge related to LLM reasoning and retrieval enhancement.
+* Since the release of ChatGPT, I have started to pay attention to large language models and become very interested in them. During the summer vacation after graduation from college, I read papers related to Transformer, BERT, and GPT. In my first year of graduate studies, I took a course on pattern recognition, further understanding the related technologies. Currently, I am studying knowledge related to LLM reasoning and retrieval enhancement.
 
