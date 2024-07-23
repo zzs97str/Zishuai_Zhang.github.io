@@ -19,8 +19,8 @@ redirect_from:
 ## Education
 
 
-<p align=left>**2023/09 - Present** Master's Degree in Math
-Beihang University, Beijing</p>
+</p align=left>**2023/09 - Present** Master's Degree in Math
+Beihang University, Beijing </p>
 
 **2019/09 - 2023/07** Bachelor's Degree in Information and Computational Science
 
