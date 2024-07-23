@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my CV."
+title: "Welcome to Zishuai Zhang's CV."
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,19 +9,21 @@ redirect_from:
 
 # Name
 
-[ZishuaiZhang](https://your-github-profile-url)
+[ZishuaiZhang](https://github.com/zzs97str)
 
 # Contact
 
-[Zishuai_Zhang@outlook.com](mailto:youremail@example.com)
+[Zishuai_Zhang@outlook.com](mailto:Zishuai_Zhang@outlook.com)
 
 
 ## Education
 
 **2023/09 - Present** Master's Degree in Math
+
 Beihang University, Beijing
 
 **2019/09 - 2023/07** Bachelor's Degree in Information and Computational Science
+
 Dalian University of Technology, Dalian
 
 * Attending the Hua Luogeng Class, a collaborative program between Dalian University of Technology and the Academy of Mathematics and Systems Science, Chinese Academy of Sciences, with a GPA of 3.54 out of 5. Weighted average score is 85.4, ranking 26th out of 137 in the major.
