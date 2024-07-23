@@ -18,11 +18,11 @@ redirect_from:
 
 ## Education
 
-**2023/09 - Present** Master's Degree in Math<\br>
-                      Beihang University, Beijing
 
+<p align=left>**2023/09 - Present** Master's Degree in Math
+Beihang University, Beijing</p>
 
-**2019/09 - 2023/07** Bachelor's Degree in Information and Computational Science<\br>
+**2019/09 - 2023/07** Bachelor's Degree in Information and Computational Science
 
 Dalian University of Technology, Dalian
 
