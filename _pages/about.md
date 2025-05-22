@@ -1,72 +1,87 @@
 ---
 permalink: /
-title: "Welcome to Zishuai Zhang's CV."
+title: "Zishuai Zhang's personal website."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# Name
+## Personal Github
 
 [ZishuaiZhang](https://github.com/zzs97str)
 
-# Contact
+## Contact
 
 [Zishuai_Zhang@outlook.com](mailto:Zishuai_Zhang@outlook.com)
 
-
 ## Education
 
+### Master's Degree
+- **Institution**: Beijing University of Aeronautics and Astronautics (BUAA)
+- **Degree**: Master of Science in Artificial Intelligence
+- **Duration**: September 2023 - Present
+- **Research Group**: Future Blockchain and Privacy Computing Advanced Research Center, BUAA
+- **Research Focus**: Federated Splitting Large Models and Privacy Computing
+- **Advisor**: Professor Hainan Zhang
 
-</p align=left>**2023/09 - Present** Master's Degree in Math
-Beihang University, Beijing </p>
+### Bachelor's Degree
+- **Institution**: Dalian University of Technology (DUT)
+- **Degree**: Bachelor of Science in Information and Computing Science (Hua Luogeng Class)
+- **Duration**: September 2019 - July 2023
 
-**2019/09 - 2023/07** Bachelor's Degree in Information and Computational Science
 
-Dalian University of Technology, Dalian
+## Research Experience
 
-* Attending the Hua Luogeng Class, a collaborative program between Dalian University of Technology and the Academy of Mathematics and Systems Science, Chinese Academy of Sciences, with a GPA of 3.54 out of 5. Weighted average score is 85.4, ranking 26th out of 137 in the major.
+### Federated Splitting Large Models with Differential Privacy
+- **Project**: AIJ Paper - "A Federated Splitting Framework for LLMs: Security, Efficiency, and Adaptability" (under review)
+- **Outcomes**: Developed a framework where large models are split into smaller sub-models distributed across servers and clients, ensuring data privacy while reducing client computational load.^[2]^
 
-## Experience
+### Retrieval-Augmented Generation (RAG)
+- **Project**: Enhanced large model performance through document retrieval
+- **Methodology**: Utilized LLamaIndex for vectorized embedding of knowledge bases, enabling similarity matching of user queries with vectorized data to improve model accuracy and reduce computational load.^[3]^
 
-**2024/04 - Present** Reinforcement Learning for Blockchain Adaptive Optimization
-Beijing Academy of Blockchain and Edge Computing (BABEC)
+### Blockchain Incentive Mechanism Based on Evolutionary Game Theory
+- **Conference Paper**: "A Semantic Detection Incentive Mechanism For Blockchain Transactions Based on Evolutionary Game Theory" (EI, IEEE Global Blockchain Conference)
+- **Contribution**: Proposed a new incentive mechanism for Bitcoin transaction validation, incorporating evolutionary game theory for transaction legality verification and anomaly detection.^[4]^
+- **Patent**: "An Incentive Mechanism for Blockchain Transaction Semantic Detection Based on Evolutionary Game Theory" (Pending)
 
-* Debugged reinforcement learning code and conducted experiments to measure the impact of action parameters on system TPS (Transactions Per Second).
+## Project Experience
 
-**2023/09 - 2024/03** Blockchain Triplet Dynamic Optimization
-Zhongguancun National Laboratory
+### Federated Privacy Large Model at Microchip Research Institute
+- **Duration**: June 2024 - November 2024
+- **Project**: Split large models into three parts, with clients holding the first and last Transformer blocks, and servers holding the middle block.^[5]^
+- **Framework**: Utilized Flower federated learning framework for data transmission between models.^[6]^
+- **Outcomes**: Demonstrated comparable performance between distributed and centralized models, validating the effectiveness of model splitting in protecting privacy and reducing client computational requirements.^[7]^
 
-* Conducted theoretical explorations and finished a part of project documentation.
+### Reinforcement Learning for Blockchain Adaptive Optimization at Microchip Research Institute
+- **Duration**: April 2024 - Present
+- **Project**: Debugged blockchain transaction pressure measurement and latency impact on blockchain TPS, optimized blockchain parameters using online reinforcement learning (PPO algorithm).^[8]^
+- **Outcomes**: Improved blockchain TPS by 8.4% under network latency conditions, proving the effectiveness of the algorithm.^[9]^
 
-**2020/06 - 2021/07** Yue Jiu Zhang Mathematical Reading Club
+## Campus Experience
 
-* Participated in the winter mathematics seminar organized by the college, assisting junior students in previewing advanced algebra.
-* Served as a staff member of the College Sports Department, responsible for organizing and planning sports events.
+### Yue Jiu Zhang Mathematical Reading Club
+- **Duration**: June 2020 - July 2021
+- **Role**: Core Member and Lecturer for Winter Mathematics Seminar
+- **Contribution**: Assisted junior students in previewing advanced algebra and organized academic discussions.^[14]^
 
-## Research
+### Sports Department, School of Mathematical Sciences
+- **Duration**: June 2020 - June 2021
+- **Role**: Staff Member
+- **Contribution**: Organized and planned college sports events.^[15]^
 
-**2023/12 - 2024/5/15** 
-* Patent Application: An Incentive Mechanism for Blockchain Transaction Semantic Detection Based on Evolutionary Game Theory.
-* Conference Paper Submission: A paper titled “A Semantic Detection Incentive Mechanism for Blockchain Transactions Based on Evolutionary Game Theory.” has been submitted.
+## Honors and Awards
 
-**2021/1 --2022/1**
-* Participated in the University Student Innovation and Entrepreneurship Project titled Research on the Convergence Rate of Bernstein Polynomials Approximation.
+- "Huawei Cup" 20th China Graduate Mathematical Modeling Competition, Third Prize
+- Hualuogeng Scholarship (19/30 in Mathematics Base Program)
+- BUAA Master's Enrollment Academic Scholarship
+- Dalian 29th University Student Mathematics Competition, Third Prize in Mathematics Category
+- DUT 2020-2021 Spiritual Civilization Scholarship
+- BUAA AI Advanced Research Center - Student Science and Technology Star
+- BUAA Second-Class Academic Scholarship
+- 2025 Fengru Cup, Third Prize
 
-## Certifications
-
-* Hua Luogeng Scholarship,
-* Third Prize in the “HUAWEI CUP” THE 20TH CHINA POST-GRADUATE MATHEMATICAL CONTEST IN MODELING
-* Third Prize in the 29th Dalian Municipal Undergraduate Mathematics Competition (Mathematics Category)
-* Spiritual Civilization Scholarship for the Academic Year 2020-2021 at Dalian University of Technology
-* Admission Scholarship for Master's Study at Beihang University.
-
-## Work skills
-* Familiar with the Python programming language 
-* Familiar with PyTorch, deep learning framework.
-* Experienced in using MATLAB.
-
-## About me
-* Since the release of ChatGPT, I have started to pay attention to large language models and become very interested in them. During the summer vacation after graduation from college, I read papers related to Transformer, BERT, and GPT. In my first year of graduate studies, I took a course on pattern recognition, further understanding the related technologies. Currently, I am studying knowledge related to LLM reasoning and retrieval enhancement.
+## Self-Evaluation
+- **Passion**: Focused on what he loves, enjoys learning new technologies and applying them in practice, gains a sense of accomplishment from creating value.
 
