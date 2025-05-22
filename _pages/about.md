@@ -71,17 +71,6 @@ redirect_from:
 - **Role**: Staff Member
 - **Contribution**: Organized and planned college sports events.
 
-## Honors and Awards
-
-- "Huawei Cup" 20th China Graduate Mathematical Modeling Competition, Third Prize
-- Hualuogeng Scholarship (19/30 in Mathematics Base Program)
-- BUAA Master's Enrollment Academic Scholarship
-- Dalian 29th University Student Mathematics Competition, Third Prize in Mathematics Category
-- DUT 2020-2021 Spiritual Civilization Scholarship
-- BUAA AI Advanced Research Center - Student Science and Technology Star
-- BUAA Second-Class Academic Scholarship
-- 2025 Fengru Cup, Third Prize
-
 ## Self-Evaluation
 - **Passion**: Focused on what he loves, enjoys learning new technologies and applying them in practice, gains a sense of accomplishment from creating value.
 
