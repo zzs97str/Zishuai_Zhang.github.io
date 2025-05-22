@@ -8,11 +8,9 @@ redirect_from:
 ---
 
 ## Personal Github
-
 [ZishuaiZhang](https://github.com/zzs97str)
 
 ## Contact
-
 [Zishuai_Zhang@outlook.com](mailto:Zishuai_Zhang@outlook.com)
 
 ## Education
