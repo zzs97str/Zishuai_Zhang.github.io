@@ -35,41 +35,41 @@ redirect_from:
 
 ### Federated Splitting Large Models with Differential Privacy
 - **Project**: AIJ Paper - "A Federated Splitting Framework for LLMs: Security, Efficiency, and Adaptability" (under review)
-- **Outcomes**: Developed a framework where large models are split into smaller sub-models distributed across servers and clients, ensuring data privacy while reducing client computational load.^[2]^
+- **Outcomes**: Developed a framework where large models are split into smaller sub-models distributed across servers and clients, ensuring data privacy while reducing client computational load.
 
 ### Retrieval-Augmented Generation (RAG)
 - **Project**: Enhanced large model performance through document retrieval
-- **Methodology**: Utilized LLamaIndex for vectorized embedding of knowledge bases, enabling similarity matching of user queries with vectorized data to improve model accuracy and reduce computational load.^[3]^
+- **Methodology**: Utilized LLamaIndex for vectorized embedding of knowledge bases, enabling similarity matching of user queries with vectorized data to improve model accuracy and reduce computational load.
 
 ### Blockchain Incentive Mechanism Based on Evolutionary Game Theory
 - **Conference Paper**: "A Semantic Detection Incentive Mechanism For Blockchain Transactions Based on Evolutionary Game Theory" (EI, IEEE Global Blockchain Conference)
-- **Contribution**: Proposed a new incentive mechanism for Bitcoin transaction validation, incorporating evolutionary game theory for transaction legality verification and anomaly detection.^[4]^
+- **Contribution**: Proposed a new incentive mechanism for Bitcoin transaction validation, incorporating evolutionary game theory for transaction legality verification and anomaly detection.
 - **Patent**: "An Incentive Mechanism for Blockchain Transaction Semantic Detection Based on Evolutionary Game Theory" (Pending)
 
 ## Project Experience
 
 ### Federated Privacy Large Model at Microchip Research Institute
 - **Duration**: June 2024 - November 2024
-- **Project**: Split large models into three parts, with clients holding the first and last Transformer blocks, and servers holding the middle block.^[5]^
-- **Framework**: Utilized Flower federated learning framework for data transmission between models.^[6]^
-- **Outcomes**: Demonstrated comparable performance between distributed and centralized models, validating the effectiveness of model splitting in protecting privacy and reducing client computational requirements.^[7]^
+- **Project**: Split large models into three parts, with clients holding the first and last Transformer blocks, and servers holding the middle block.
+- **Framework**: Utilized Flower federated learning framework for data transmission between models.
+- **Outcomes**: Demonstrated comparable performance between distributed and centralized models, validating the effectiveness of model splitting in protecting privacy and reducing client computational requirements.
 
 ### Reinforcement Learning for Blockchain Adaptive Optimization at Microchip Research Institute
 - **Duration**: April 2024 - Present
-- **Project**: Debugged blockchain transaction pressure measurement and latency impact on blockchain TPS, optimized blockchain parameters using online reinforcement learning (PPO algorithm).^[8]^
-- **Outcomes**: Improved blockchain TPS by 8.4% under network latency conditions, proving the effectiveness of the algorithm.^[9]^
+- **Project**: Debugged blockchain transaction pressure measurement and latency impact on blockchain TPS, optimized blockchain parameters using online reinforcement learning (PPO algorithm).
+- **Outcomes**: Improved blockchain TPS by 8.4% under network latency conditions, proving the effectiveness of the algorithm.
 
 ## Campus Experience
 
 ### Yue Jiu Zhang Mathematical Reading Club
 - **Duration**: June 2020 - July 2021
 - **Role**: Core Member and Lecturer for Winter Mathematics Seminar
-- **Contribution**: Assisted junior students in previewing advanced algebra and organized academic discussions.^[14]^
+- **Contribution**: Assisted junior students in previewing advanced algebra and organized academic discussions.
 
 ### Sports Department, School of Mathematical Sciences
 - **Duration**: June 2020 - June 2021
 - **Role**: Staff Member
-- **Contribution**: Organized and planned college sports events.^[15]^
+- **Contribution**: Organized and planned college sports events.
 
 ## Honors and Awards
 
