@@ -59,18 +59,6 @@ redirect_from:
 - **Project**: Debugged blockchain transaction pressure measurement and latency impact on blockchain TPS, optimized blockchain parameters using online reinforcement learning (PPO algorithm).
 - **Outcomes**: Improved blockchain TPS by 8.4% under network latency conditions, proving the effectiveness of the algorithm.
 
-## Campus Experience
-
-### Yue Jiu Zhang Mathematical Reading Club
-- **Duration**: June 2020 - July 2021
-- **Role**: Core Member and Lecturer for Winter Mathematics Seminar
-- **Contribution**: Assisted junior students in previewing advanced algebra and organized academic discussions.
-
-### Sports Department, School of Mathematical Sciences
-- **Duration**: June 2020 - June 2021
-- **Role**: Staff Member
-- **Contribution**: Organized and planned college sports events.
-
 ## Self-Evaluation
 - **Passion**: Focused on what he loves, enjoys learning new technologies and applying them in practice, gains a sense of accomplishment from creating value.
 
